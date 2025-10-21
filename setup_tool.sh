@@ -27,6 +27,8 @@ paketler=(
     "php"
     "jq"
     "figlet"
+    "ffmpeg"
+    "imagemagick"
 )
 
 # Başlık
